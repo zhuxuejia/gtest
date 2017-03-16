@@ -7,3 +7,4 @@ tttt4 in master
 dev add add by master and f1
 ttttt1 in master
 tttt3 in dev2
+stash test
