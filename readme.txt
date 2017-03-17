@@ -7,3 +7,4 @@ dev add add by master and f1
 ttttt1 in master
 tttt3 in dev2
 input in directory2 dev
+input in 251
