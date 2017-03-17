@@ -11,4 +11,5 @@ tttt3 in dev2
 stash test
 =======
 input in directory2 dev
+input in MBP
 input in 251
